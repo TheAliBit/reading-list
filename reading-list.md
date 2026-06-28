@@ -3,4 +3,4 @@
 - [ ] tcp protocol
 - [ ] http protocl
 - [ ] https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
-- [ ] NAT
+- [*] NAT
