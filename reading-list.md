@@ -2,5 +2,10 @@
 - [ ] kernel level load balancers
 - [ ] tcp protocol
 - [ ] http protocl
-- [ ] https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+- [ ] OSI - Open systems interconnection | read about the layers
+
+## Done
+
 - [*] NAT
+- [*] https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+
