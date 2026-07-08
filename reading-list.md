@@ -3,6 +3,7 @@
 - [ ] tcp protocol
 - [ ] http protocl
 - [ ] OSI - Open systems interconnection | read about the layers
+- [ ] HyperLogLog ds 
 
 ## Done
 
