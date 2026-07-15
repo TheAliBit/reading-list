@@ -5,6 +5,8 @@
 - [ ] OSI - Open systems interconnection | read about the layers
 - [ ] HyperLogLog ds 
 - [ ] point-in-time queries in etcd 
+- [ ] sequential dis IO 
+
 
 ## Done
 
