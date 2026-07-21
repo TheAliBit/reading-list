@@ -6,6 +6,7 @@
 - [ ] HyperLogLog ds 
 - [ ] point-in-time queries in etcd 
 - [ ] https://www.youtube.com/watch?v=ES2xNbuyoP8&list=PLREYIVnkcgLUZ5cC2jpXQ79nH3C5BtHnV | ccna | arash deljoo
+- [ ] sequential dis IO 
 
 
 ## Done
