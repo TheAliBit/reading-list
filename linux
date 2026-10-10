@@ -1,0 +1,15 @@
+Linux Kernel Primitives
+
+Linux Namespaces (namespaces(7)): Isolation mechanics across pid, mnt, net, ipc, uts, user, and cgroup (focus on CLONE_NEWPID and CLONE_NEWNS).
+
+Process File System (procfs & /proc/[pid]/root): How the Linux kernel exposes a process's root filesystem and mounts via pseudo-filesystems.
+
+chroot and pivot_root(2): System calls used to change root directories and pivot filesystem mounting trees.
+
+Container Runtime & Orchestration
+
+Kubernetes Ephemeral Containers (EphemeralContainers): API design, CRI integration, and how kubectl debug attaches diagnostic containers to running pods.
+
+Container Runtimes (containerd, CRI-O, runc): OCI runtime specifications, sandbox task creation, and low-level namespace inheritance.
+
+Linux Capabilities (capabilities(7)): Privileged operations like CAP_SYS_ADMIN and CAP_SYS_PTRACE that enable cross-container process inspection and root-level manipulation.
